@@ -2,7 +2,7 @@
 # output: 5
 
 a,b=map(int,input().split())
-print(a+b)
+print(a+b)#natija
 
 # How it works?
 # Initially, I thought that it was quite easy to solve the problem, but after many trials I got errors ranging from presentation error to runtime error.
